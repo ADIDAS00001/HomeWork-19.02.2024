@@ -1,0 +1,14 @@
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\task6.AssemblyInfoInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\task6.AssemblyInfo.cs
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\bin\Debug\net8.0\task6.exe
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\bin\Debug\net8.0\task6.deps.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\bin\Debug\net8.0\task6.runtimeconfig.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\bin\Debug\net8.0\task6.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\bin\Debug\net8.0\task6.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\task6.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\refint\task6.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\task6.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\task6.genruntimeconfig.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day1\HomeWork\task6\obj\Debug\net8.0\ref\task6.dll

@@ -1,0 +1,14 @@
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\bin\Debug\net8.0\task8.exe
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\bin\Debug\net8.0\task8.deps.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\bin\Debug\net8.0\task8.runtimeconfig.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\bin\Debug\net8.0\task8.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\bin\Debug\net8.0\task8.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\task8.AssemblyInfoInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\task8.AssemblyInfo.cs
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\task8.csproj.CoreCompileInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\task8.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\refint\task8.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\task8.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\task8.genruntimeconfig.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 5\Classwork\task8\obj\Debug\net8.0\ref\task8.dll
